@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<library>
+	<books>
+		<book id="1">
+			<title>Hyperspace</title>
+			<year>1999</year>
+			<count>3</count>
+			<countDays>5</countDays>
+			<authors>
+				<author>
+					<name>Roger</name>
+					<surname>Penrose</surname>
+				</author>
+			</authors>
+		</book>
+		  <book id="2">
+			<title>My Brief History</title>
+			<year>2013</year>
+			<count>7</count>
+			<countDays>11</countDays>
+			<authors>
+				<author>
+					<name>Stephen</name>
+					<surname>Hawking</surname>
+				</author>
+				<author>
+					<name>Leonard</name>
+					<surname>Mlodinov</surname>
+				</author>
+			</authors>
+		</book>
+	</books>
+<magazines>
+		<magazine id="1">
+			<title>The New Times</title>
+			<year>2015</year>
+			<count>35</count>
+			<countDays>21</countDays>
+			<editors>
+				<editor>
+					<name>Evgenia</name>
+					<surname>Albats</surname>
+				</editor>
+			</editors>
+		</magazine>
+		<magazine id="2">
+			<title>The Wall Street Journal</title>
+			<year>2011</year>
+			<count>17</count>
+			<countDays>11</countDays>
+			<editors>
+				<editor>
+					<name>Robert</name>
+					<surname>Thomson</surname>
+				</editor>
+			</editors>
+		</magazine>
+	</magazines>
+<newspapers>
+		<newspaper id="1" homeAvailable="true" readingRoomAvailable="true">
+			<title>The New York Times</title>
+			<year>2016</year>
+			<count>17</count>
+			<countDays>14</countDays>
+			<editors>
+				<editor>
+					<name>Arthur</name>
+					<surname>Sulzberger</surname>
+				</editor>
+			</editors>
+		</newspaper>
+		<newspaper id="2" homeAvailable="true" readingRoomAvailable="true">
+			<title>Cosmopolitan</title>
+			<year>2017</year>
+			<count>11</count>
+			<countDays>7</countDays>
+			<editors>
+				<editor>
+					<name>Michelle</name>
+					<surname>Promalayko</surname>
+				</editor>
+			</editors>
+		</newspaper>
+	</newspapers>
+</library>
